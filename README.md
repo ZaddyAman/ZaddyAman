@@ -3,7 +3,7 @@
   <br />
   <br />
   <H4>Visitor Count</H4>
-  <img src="https://count.getloli.com/get/@sharpeye08?theme=rule34" />
+  <img src="https://count.getloli.com/@ZaddyAman?name=ZaddyAman&theme=booru-koe&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </div>
 
 ##  projects
