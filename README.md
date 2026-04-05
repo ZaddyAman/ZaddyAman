@@ -6,12 +6,6 @@
   <img src="https://count.getloli.com/@ZaddyAman?name=ZaddyAman&theme=booru-koe&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </div>
 
-##  projects
-
-- **[Sharpner](https://github.com/sharpeye08/Sharpner)** — A no-code AutoML platform to instantly build, train, and compare ML models through a UI.
-
-- **[kenkyū](https://github.com/sharpeye08/kenkyu)** — An autonomous AI research agent that plans queries, searches the web, and synthesizes a report using LangGraph + Ollama.
-
 <h1 align="center">Hi 👋, I'm Aman Sayyad</h1>
 <h3 align="center">AI Engineer and Builder</h3>
 
