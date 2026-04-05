@@ -14,15 +14,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaddyaman" alt="zaddyaman" /></a> </p>
 
+
+
 - 🔭 I’m currently working on [SMARTFORK](https://github.com/ZaddyAman/smart-fork)
+
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZaddyAman](https://github.com/ZaddyAman)
 
+
+
 - 📝 I regularly write articles on [https://medium.com/@aman2003sayyad](https://medium.com/@aman2003sayyad)
+
+
 
 - 📫 How to reach me **aman2003sayyad@gmail.com**
 
+
+
 - ⚡ Fun fact **blaaaah blaaaah blaaahh**
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
